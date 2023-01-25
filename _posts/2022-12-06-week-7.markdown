@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Week 7"
+date:   2022-12-06 00:00:00 +0000
+categories: update
+---
+We conducted research on the biological side such as hand tremors and movement disorders. Also looked into different API's and methods for implementing the virtual dance mat and jitter algorithm, as well as creating the first version of our website.

@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Week 6"
+date:   2022-11-29 00:00:00 +0000
+categories: update
+---
+This week we gained access to the MotionInput source code and met to discuss responsibilites for the literature review.

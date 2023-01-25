@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Week 4 & 5"
+date:   2022-11-22 00:00:00 +0000
+categories: update
+---
+During this time we had a meeting with our project partners and recieved requirements for the following stages of our project, including literature review, and signed IXN letter for access to MotionInput. Also made a list of the controls of several games to see how we could construct virtual dance mat that could play them.
