@@ -4,4 +4,4 @@ title:  "Christmas break"
 date:   2022-12-17 00:00:00 +0000
 categories: update
 ---
-Recieved requirements for additional project to work with team 26 and include controls & gestures for FIFA and retro games to MotionInput over the break.
+We were given additional requirements for the project. We were expected to extend the MotionInput source code to create a feetpad mode to allow users to play games solely with their feet. The games that could be played with this mode included FIFA and retro games. 

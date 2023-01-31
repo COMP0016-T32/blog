@@ -4,4 +4,4 @@ title:  "Week 9"
 date:   2023-01-05 00:00:00 +0000
 categories: update
 ---
-Met with team 26 and created mode for FIFA22 for people with disabilities to play using their lower body, with hit targets and kick gestures and speech controls, while they worked on upper body controls for able-bodied users.
+After discussing with Team 26, we began to design the feetpad mode. We intended for the feetpad to have two separate layout for FIFA and retro games. In the FIFA mode, the users would use hit triggers on the screen to control the players, use speech commands to further engage in the game, and use a kick gesture to shoot the ball. On the other hand, the retro games mode was simpler with only the hit triggers. 
