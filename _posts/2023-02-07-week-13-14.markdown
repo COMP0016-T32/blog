@@ -1,7 +1,0 @@
----
-layout: post
-title:  "Week 13 & 14"
-date:   2023-02-07 00:00:00 +0000
-categories: update
----
-We took photos to use as training data for mediapipe and designed a prototype of our virtual dance mat and how it could work. After feedback from our professor we were tasked with adding kick lines and different modes of the VDM for different kinds of games. We also discussed with team 27 about working together on hand jitter compensation. Additionally we began preparing for presentation to Intel.
