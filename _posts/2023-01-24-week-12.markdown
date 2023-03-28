@@ -5,4 +5,3 @@ date:   2023-01-24 00:00:00 +0000
 categories: update
 ---
 After completing the extra assignment, we went back to focus on the Virtual dance mat and jitter algorithm. Researched pose estimation systems other than MediaPipe and looked into training MediaPipe to work if only the subject's legs are in the camera's field of view as it's inconvenient to fit the full body. Also we updated our website and blog and added extra information such as gantt chart.
-a
