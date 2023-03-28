@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Term 2 Week 10"
+date:   2023-03-26 00:00:00 +0000
+categories: update
+---
+
+# Improved Mouse Mode
+
+As requested by our project partner, Prof Dean Mohamedally, we added two more in-air action buttons for the mouse mode to allow users to fully control the mouse using the mouse mode. The two buttons we added allow users to hold the left click and the right click of the mouse. With the addition of the buttons, the users are now able to enjoy a larger range of activities, such as drawing with the FeetNav features in Microsoft Paint.
+
+# Finalised Compilation
+
+After walking through the functionalities of our product with our project partner, we finalised everything and compiled our codes. The compiled version of our product was sent to Team 29 for further publication.
+
+# Completed Presentation 2
+
+Tina filmed the video for presentation 2, which was published on YouTube by our project partner. 
+
+# Completed Website
+
+After delivering our final compilation, we summarised our work in the past two terms on the project website and also evaluated the whole project.
