@@ -4,6 +4,9 @@ title:  "Term 2 Week 1 - Week 2"
 date:   2023-01-22 00:00:00 +0000
 categories: update
 ---
+
+In these two weeks, we refined the existing modes and added more modes for more games. These modes were tested and demonstrated to the industrial partners. Moreover, we completed the elevator pitch.
+
 # Added Speech Command for Fifa
 
 To fully support gameplay in FIFA, we added speech commands so that the users would be able to use more features of Fifa. For sprinting in Fifa, we planned to use one speech command to change the game character to sprinting and another speech command to change the game character back to the normal speed. However, we discovered that the speech command would only press the key that the command was mapped to once. In order for the speech command to hold the key, we tried the key_down function in keyboard.py, but it did not work. After researching, we found out that holding the key would require starting a thread. As a result, we implemented new key_down and key_up functions in keyboard.py so that one speech command could hold the key and another speech command could release the key.
