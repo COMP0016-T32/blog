@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Term 2 Week 1 - Week 2"
-date:   2023-01-22 00:00:00 +0000
+title:  "Term 2 Week 3 - Week 4"
+date:   2023-02-05 00:00:00 +0000
 categories: update
 ---
 
