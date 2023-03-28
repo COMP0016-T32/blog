@@ -5,6 +5,8 @@ date:   2023-01-09 00:00:00 +0000
 categories: update
 ---
 
+Over the break, we created new modes with feet extremity buttons to allow users to play games using their feet. Moreover, we created a configuration to allow users to change the settings of the Fifa mode.
+
 # Added Feet Extremity Buttons
 
 We were tasked with an additional task by Prof Dean in the Christmas break, which was to find a solution to allow users to play games with their feet. After discussing with and learning from Team 26, we decided to add feet extremity buttons to complete the task. These extremity buttons tracked users’ ankles and would be activated if the coordinates of the users’ ankles were the same as the coordinates of the buttons. As a result, users would be able to play games by overlapping their ankles with the buttons in the MI window.
