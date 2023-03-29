@@ -1,7 +1,0 @@
----
-layout: post
-title:  "Week 4 & 5"
-date:   2022-11-22 00:00:00 +0000
-categories: update
----
-After meeting with our project partners to discuss the details of our project requirements, we began to conduct literature review for our project. In the initial stage of our literature review, we explored the potential games that could be played with our product, which is the virtual dancing mat.

@@ -1,7 +1,0 @@
----
-layout: post
-title:  "Week 1"
-date:   2022-10-25 00:00:00 +0000
-categories: update
----
-During the first week, we met our team members and were given our assigned companies' contacts. We were introduced to MotionInput and the initial requirements of our project were to design a virtual dance mat and hand jitter stabilisation algorithm for the aging and care homes. Meanwhile, we recieved our first (HCI) assignment and began working on personas, scenarios and sketches for our project.

@@ -1,7 +1,0 @@
----
-layout: post
-title:  "Week 7"
-date:   2022-12-06 00:00:00 +0000
-categories: update
----
-We continued the literature review by researching on the potential solutions to our project. To understand the potential users better, we conducted research on the biological side such as hand tremors and movement disorders. Moreover, we looked into different methods for implementing the virtual dance mat and the hand jitter algorithm. The first version of our website was created.
