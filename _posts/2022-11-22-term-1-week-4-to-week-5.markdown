@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Term 2 Week 4 - Week 5"
+title:  "Term 1 Week 4 - Week 5"
 date:   2022-12-04 00:00:00 +0000
 categories: update
 ---
