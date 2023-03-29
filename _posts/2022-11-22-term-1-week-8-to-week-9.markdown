@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Term 1 Week 8 - Week 9"
-date:   2023-12-30 00:00:00 +0000
+date:   2022-12-30 00:00:00 +0000
 categories: update
 ---
 During a meeting with Dean, additional tasks were assigned before implementing dance mat and hand jitter. These tasks include creating footpad mode 1 and testing retro games using feet for gameplay. A new football mode for FIFA will also be created, with consideration for players with no hands or arms. Team 26 will assist with implementing MotionInput for FIFA during the holidays.
