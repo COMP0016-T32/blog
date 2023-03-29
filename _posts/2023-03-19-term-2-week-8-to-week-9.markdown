@@ -5,6 +5,8 @@ date:   2023-03-19 00:00:00 +0000
 categories: update
 ---
 
+In these two weeks, we implemented and continued to improve the configuration wizard. We started to wrap up the dance mat and test it with a range of games. We were honoured to have the chance to showcase our product at GOSH.
+
 # Improved MFC
 
 We continued to improve the MFC graphical user interface over the two weeks. To resolve the difficulties of passing the values of variables between dialog windows, we created a GlobalStatus class, which was a singleton class that was referred to in every dialog window class. This singleton class made the development of MFC much easier and more efficient. 
