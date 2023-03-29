@@ -5,6 +5,8 @@ date:   2023-03-26 00:00:00 +0000
 categories: update
 ---
 
+At the start of the week, we continued to improve our products. By the end of the week, we managed to finalise everything and call the project a success.
+
 # Improved Mouse Mode
 
 As requested by our project partner, Prof Dean Mohamedally, we added two more in-air action buttons for the mouse mode to allow users to fully control the mouse using the mouse mode. The two buttons we added allow users to hold the left click and the right click of the mouse. With the addition of the buttons, the users are now able to enjoy a larger range of activities, such as drawing with the FeetNav features in Microsoft Paint.
