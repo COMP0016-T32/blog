@@ -9,7 +9,11 @@ In these two weeks, we successfully added the virtual dance mat to the MotionInp
 
 # Added the Virtual Dance Mat
 
-Based on the holistic module developed by Team 26, we implemented our virtual dance mat. 
+After thoughtful research and compromise with the situation such as time and resources, we decided to use MediaPipe as our core technology. There are relatively a lot of resources available on blogs and YouTube videos. One of the most helpful websites was [Bleed AI’s blog posting](https://bleedai.com/introduction-to-pose-detection-and-basic-pose-classification/). Basically, using the coordinates of the landmarks provided by MediaPipe, I can set the mathematical expression to measure a gesture that we want to capture. For the detailed information about the algorithm, please visit the Research and Implementation section in our [website](https://students.cs.ucl.ac.uk/2022/group32/). With temporary thresholds we set after a few times of testing, we have checked that this implementation can be kept for this project. But it is required to have extensive experiments with various situations like different cameras angles and people in the future.
+
+Unfortunately, however, there has always been a problem with the team that it is very difficult to integrate the new features we created with the existing MotionInput codebase. We have spent more than 5 days trying to put it into MotionInput but failed in the end. Nonetheless, we were able to do this thanks to Team 26’s new holistic module. They made it much easier to embed our codes and maintain them.
+
+Yes! Finally, we have added the virtual dance mat which was our top priority. We really appreciate Abid in Team 26 for helping and encouraging our developers with nice compliments.
 
 # Added the Dance Mat Visualiser
 
