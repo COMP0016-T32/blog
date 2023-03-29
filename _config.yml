@@ -19,7 +19,7 @@ skin: "/assets/css/skins/default.css"
 locale: en-US
 title: "MotionInput Team 32 Dev Blog"
 description: "Feet-Based Combination of Interactions"
-baseurl: blog/
+baseurl: /blog
 url: https://comp0016-t32.github.io/
 logo: # path of site logo, e.g. "/images/logo.png"
 date_format: "%B %-d, %Y"
