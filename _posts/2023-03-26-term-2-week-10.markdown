@@ -17,7 +17,9 @@ After walking through the functionalities of our product with our project partne
 
 # Completed Presentation 2
 
-Tina filmed the video for presentation 2, which was published on YouTube by our project partner. 
+Tina filmed the video for presentation 2, which was published on YouTube by our project partner. It is a 4 mins video that showcases our project's features and functionality in a NON-TECHNICAL manner. This video focuses solely on storytelling and demonstrations of the work, without including any technical details, diagrams, flow charts or algorithms.
+
+We understood the importance of creating a video that would describe the system's benefits through the eyes of its users, using easy-to-understand, non-technical language. As the video was ultimately published on YouTube by our project partner, helping to promote our project and generate interest from a wider audience.
 
 # Completed Website
 
