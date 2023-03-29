@@ -27,7 +27,7 @@ After adding the virtual dance mat, we realized that the dance mat gestures were
 
 The configuration wizard (MFC) of the virtual dance mat would be coded using MFC and C++. With the aim of giving the users as much freedom as possible in mind, we brainstormed the design of the configuration wizard together. 
 
-![Mfc]({{ "/assets/images/mfc_sketch.png" | absolute_url }})
+![](../images/mfc_sketch.png)
 
 In the initial design, the first page of the configuration wizard showed the preset modes of the virtual dance mat. When clicking on one of the modes, such as FIFA, another page with four buttons, which were Dance Mat, AOI, Speech, and Extremity, would open. Clicking on these buttons would lead to the corresponding pages for setting the components, which allowed the users to customise these components. Moreover, in the first page, the users would be able to add customised modes by clicking the add button, which would lead them to a new page that prompted the users to enter the name for the new mode.
 
