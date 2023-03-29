@@ -5,6 +5,8 @@ date:   2023-03-05 00:00:00 +0000
 categories: update
 ---
 
+In these two weeks, we successfully added the virtual dance mat to the MotionInput codebase. Moreover, we added more components to the dance mat and fixed some bugs. We also designed the configuration wizard.
+
 # Added the Virtual Dance Mat
 
 Based on the holistic module developed by Team 26, we implemented our virtual dance mat. 
