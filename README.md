@@ -34,4 +34,15 @@ bundle exec jekyll build
 There will be `_site` directory generated in the root directory.
 
 ## How to write a blog post
-To add a new post, create a new markdown file in the `_posts` directory. The naming of the file must follow the following convention: `YYYY-MM-DD-title.markdown`. To change a post, find it in the `_posts` directory according to the title.
+To add a new post, create a new markdown file in the `_posts` directory. The naming of the file must follow the following convention: `YYYY-MM-DD-title.markdown`. All blog posts must begin with front matter, which is used to set a layout. For our blogs, the following front matter is used:
+
+```markdown
+---
+layout: post
+title:  <string>
+date:   YYYY-MM-DD HH:mm:ss +0000
+categories: update
+---
+```
+
+To change a post, find it in the `_posts` directory according to the title.
