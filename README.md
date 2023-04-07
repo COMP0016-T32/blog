@@ -33,6 +33,8 @@ bundle exec jekyll build
 
 There will be `_site` directory generated in the root directory.
 
+**However**, notice that the website is designed to be deployed in the web server, so the styling will look cracked when opening `index.html` in the browser directly. This is obvious, so please either visit the [website](https://comp0016-t32.github.io/blog/) or run the local server by running `bundle exec jekyll serve`.
+
 ## How to write a blog post
 To add a new post, create a new markdown file in the `_posts` directory. The naming of the file must follow the following convention: `YYYY-MM-DD-title.markdown`. All blog posts must begin with front matter, which is used to set a layout. For our blogs, the following front matter is used:
 
